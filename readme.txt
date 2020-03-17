@@ -1,36 +1,68 @@
 === Ocean Product Sharing ===
-Contributors: oceanwp
+Contributors: oceanwp, apprimit, wpfleek
 Tags: social, social sharing, social share product, share product, oceanwp
 Requires at least: 4.5
-Tested up to: 5.2
-Stable tag: 1.0.8
+Tested up to: 5.4
+Stable tag: 1.0.9
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+
+Website: https://oceanwp.org/
+Support: https://oceanwp.org/support/
+Documentation: https://docs.oceanwp.org/
+Extensions: https://oceanwp.org/extensions/
+Email: support@oceanwp.org
 
 == Description ==
 
-A simple plugin to add social share buttons to your product page, compatible with WooCommerce and Easy Digital Downloads.
+A simple plugin to add social sharing buttons to your single product pages. Compatible with WooCommerce and Easy Digital Downloads.
 This plugin requires the [OceanWP](https://oceanwp.org/) theme to be installed.
 
 == Installation ==
 
 1. Upload `ocean-product-sharing` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Configure it via the Product Sharing section of the customizer
+2. Activate the plugin through the 'Plugins' menu in WordPress dashboard
+3. Configure it via the Product Sharing section of the Customizer (Appearance > Customize)
 4. Done!
 
 == Frequently Asked Questions ==
 
 = I installed the plugin but it does not work =
 
-This plugin will only work with the [OceanWP](https://oceanwp.org/) theme.
+This plugin will only function with the [OceanWP](https://oceanwp.org/) theme.
+
+== Ocean Product Sharing License ==
+
+Ocean Product Sharing is licensed under the GNU General Public License v2 or later
+More details here: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Screenshots ==
 
 1. The social sharing buttons.
 2. On full width page.
 
+== Copyright ==
+
+Ocean Product Sharing WordPress Plugin, Copyright 2020 OceanWP.org
+Ocean Product Sharing is distributed under the terms of the GNU GPL.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
 == Changelog ==
+
+= 1.0.9 =
+- Added: Improved Accessibility.
+- Updated: Translation strings.
+- Updated: readme.txt file.
 
 = 1.0.8 =
 - Added: Codes for the Freemius switch.

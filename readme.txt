@@ -33,11 +33,6 @@ This plugin requires the [OceanWP](https://oceanwp.org/) theme to be installed.
 
 This plugin will only function with the [OceanWP](https://oceanwp.org/) theme.
 
-== Ocean Product Sharing License ==
-
-Ocean Product Sharing is licensed under the GNU General Public License v2 or later
-More details here: https://www.gnu.org/licenses/gpl-2.0.html
-
 == Screenshots ==
 
 1. The social sharing buttons.
